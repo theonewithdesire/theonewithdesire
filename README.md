@@ -1,104 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:A855F7,100:C084FC&height=300&section=header&text=TheOneWithDesire&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=Computer%20Engineering%20Graduate&descAlignY=70&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=Hey%20I'm%20TheOneWithDesire&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+MCP+Enthusiast+%F0%9F%A4%96;System+Architecture+Lover+%F0%9F%8F%97%EF%B8%8F;20x+Productivity+with+AI+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎓+Computer+Engineering+Graduate;⚡+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;📈+20x+Productivity+with+AI" alt="Typing SVG" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-```typescript
-interface Developer {
-  name: string;
-  degree: string;
-  stack: string[];
-  superpower: string;
-  philosophy: string;
-}
+## � Abeout Me
 
-const me: Developer = {
-  name: "TheOneWithDesire",
-  degree: "Bachelor's in Computer Engineering",
-  stack: ["React", "Node.js", "Python", "MySQL"],
-  superpower: "20x productivity boost with AI",
-  philosophy: "Python is utility for everything"
+```javascript
+const developer = {
+    name: "TheOneWithDesire",
+    education: "Bachelor's in Computer Engineering",
+    passion: ["System Architecture", "AI Innovation", "Clean Code"],
+    currentlyBuilding: "Scalable full-stack applications",
+    aiProductivity: "20x boost with intelligent automation",
+    pythonPhilosophy: "It's not just a language, it's a utility for everything",
+    architectureMindset: "Design systems that scale, maintain code that lasts"
 };
+
+console.log("Building the future, one commit at a time 🚀");
 ```
 
-<div align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</div>
-
-## 🔥 Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" height="48" alt="AI" />
-        <br>AI/MCP
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🎯 What I Build
-
-<div align="center">
-  
-**🏗️ Scalable Systems** • **🤖 Agentic AI Solutions** • **⚡ Full Stack Apps**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-## 📈 GitHub Stats
+## 🚀 What I Do
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+
+🏗️ **System Architecture** • 🤖 **Agentic AI & MCP** • ⚡ **Full Stack Development**
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:C084FC&height=120&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer"/>
 </div>
