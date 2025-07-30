@@ -1,66 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=Hey%20I'm%20TheOneWithDesire&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</div>
+# 👋 Hey there! I'm [theonewithdesire](https://github.com/theonewithdesire)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎓+Computer+Engineering+Graduate;⚡+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;📈+20x+Productivity+with+AI" alt="Typing SVG" />
-</div>
+### 🚀 A Full Stack Developer | System Architect | AI Enthusiast | UI/UX Aesthetician
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
 
-## � Abeout Me
+🎓 **Bachelor's in Computer Engineering**  
+🔧 **Crafting full-stack experiences** with:  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🚂 Express.js  
+- 🛢️ MySQL  
 
-```javascript
-const developer = {
-    name: "TheOneWithDesire",
-    education: "Bachelor's in Computer Engineering",
-    passion: ["System Architecture", "AI Innovation", "Clean Code"],
-    currentlyBuilding: "Scalable full-stack applications",
-    aiProductivity: "20x boost with intelligent automation",
-    pythonPhilosophy: "It's not just a language, it's a utility for everything",
-    architectureMindset: "Design systems that scale, maintain code that lasts"
-};
+💻 Also fluent in **Python** — my Swiss Army knife for utilities, automations, and all things smart.
 
-console.log("Building the future, one commit at a time 🚀");
-```
+---
 
-## 🛠️ Tech Arsenal
+### 🧠 Obsessed with Software Architecture & Scalability
+I love **designing and maintaining robust systems** that don’t just work — they scale, adapt, and evolve.
 
-<div align="center">
+> “Code is poetry, but architecture is symphony.”
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 🤖 AI-First Mindset  
+I **integrate AI into my workflow** religiously, boosting productivity by **20×**.  
+From automating tasks to solving problems creatively — AI is my everyday companion.  
+Currently exploring:
+- 🧠 **Agentic AI Systems**  
+- 🛠 **MCP: Multi-Component Programming** — taking software to the next level  
 
-</div>
+---
 
-## 🚀 What I Do
+### 🎨 UI/UX + Aesthetics = ❤️  
+I *don't just build apps* — I **design experiences**.  
+- Focused on what *visually attracts* and *emotionally connects* users  
+- Passionate about **astonishing interfaces** that blend functionality with beauty
 
-<div align="center">
+---
 
-🏗️ **System Architecture** • 🤖 **Agentic AI & MCP** • ⚡ **Full Stack Development**
+### 📬 Let's Connect
 
-</div>
+> **Always building. Always designing. Always dreaming.**  
+> Check out my projects and let’s collaborate on something epic 🌟
 
-## 📊 GitHub Analytics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theonewithdesire&show_icons=true&theme=radical)](https://github.com/theonewithdesire)
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer"/>
-</div>
+---
