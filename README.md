@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:8B5CF6,50:A855F7,100:C084FC&height=200&section=header&text=TheOneWithDesire&fontSize=60&fontColor=fff&animation=scaleIn&fontAlignY=65"/>
-</div>
+  
+# 👋 Hey, I'm TheOneWithDesire
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=650&lines=🎓+Computer+Engineering+Graduate;🚀+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;⚡+20x+Productivity+Boost" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=650&lines=🎓+Computer+Engineering+Graduate;🚀+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;⚡+20x+Productivity+Boost" alt="Typing SVG" />
+
 </div>
 
 <br>
