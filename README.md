@@ -1,98 +1,66 @@
-# Hey there! 👋 I'm [Your Name]
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Graduate;Full+Stack+Developer;AI+Enthusiast;System+Architecture+Lover;UI%2FUX+Design+Passionate" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20I'm%20[Your%20Name]&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-## 🚀 About Me
-
-```javascript
-const developer = {
-    name: "Your Name",
-    education: "Bachelor's in Computer Engineering 🎓",
-    passion: ["Software Architecture", "AI Innovation", "Aesthetic Design"],
-    currentFocus: "Building scalable systems & agentic AI solutions",
-    productivity: "Boosted by 20x with AI integration 🤖"
-};
-```
-
-## 💻 Tech Arsenal
-
-### 🌐 Full Stack Development
-```bash
-Frontend  → React.js + Tailwind CSS (Creating pixel-perfect UIs)
-Backend   → Express.js (Building robust APIs)
-Database  → MySQL (Data that makes sense)
-```
-
-### 🐍 Python - The Swiss Army Knife
-> *"Python isn't just a language, it's a utility for everything!"*
-- Data Analysis & Automation
-- AI/ML Model Development
-- System Scripting & Tools
-
-### 🏗️ System Architecture & Design
-- **Scalable Systems**: Designing architectures that grow with your business
-- **Maintainable Code**: Writing code that future-you will thank present-you for
-- **Performance Optimization**: Making systems faster, stronger, better
-
-## 🤖 AI & Innovation
-
-### Agentic AI Development
-Building intelligent agents that don't just respond—they **think, plan, and execute**
-
-### MCP Integration
-Taking software to the next level with **Model Context Protocol**
-- Seamless AI-human collaboration
-- Context-aware intelligent systems
-- Next-generation development workflows
-
-## 🎨 Design Philosophy
-
-> *"Great software isn't just functional—it's beautiful"*
-
-### UI/UX Excellence
-- **Aesthetic-First Approach**: Every pixel has a purpose
-- **Customer Psychology**: Understanding what attracts and converts
-- **User Experience**: Making complex simple, making simple delightful
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🎓+Computer+Engineering+Graduate;⚡+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;🎨+UI%2FUX+Design+Lover;📈+20x+Productivity+with+AI" alt="Typing SVG" />
 </div>
 
-## 🛠️ Current Projects
-
-```yaml
-Status: Building the Future
-- 🔥 Scalable full-stack applications
-- 🧠 Intelligent agentic AI systems  
-- 🎯 Customer-focused UI/UX designs
-- ⚡ 20x productivity tools & workflows
-```
-
-## 📈 GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 </div>
 
-## 🌟 Let's Connect!
+## 🚀 What I Do
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
+<br><strong>🏗️ System Architecture</strong>
+<br>Building scalable & maintainable systems
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+<br><strong>🤖 Agentic AI & MCP</strong>
+<br>Next-level intelligent software
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
+<br><strong>🎨 UI/UX Design</strong>
+<br>Aesthetic designs that convert
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌐 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](your-portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email)
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>"Code is poetry, design is art, and AI is the future—I'm here to blend them all."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
