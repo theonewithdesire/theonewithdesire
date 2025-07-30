@@ -3,12 +3,28 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎓+Computer+Engineering+Graduate;⚡+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;🎨+UI%2FUX+Design+Lover;📈+20x+Productivity+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎓+Computer+Engineering+Graduate;⚡+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;📈+20x+Productivity+with+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+## � Abeout Me
+
+```javascript
+const developer = {
+    name: "TheOneWithDesire",
+    education: "Bachelor's in Computer Engineering",
+    passion: ["System Architecture", "AI Innovation", "Clean Code"],
+    currentlyBuilding: "Scalable full-stack applications",
+    aiProductivity: "20x boost with intelligent automation",
+    pythonPhilosophy: "It's not just a language, it's a utility for everything",
+    architectureMindset: "Design systems that scale, maintain code that lasts"
+};
+
+console.log("Building the future, one commit at a time 🚀");
+```
 
 ## 🛠️ Tech Arsenal
 
@@ -29,39 +45,16 @@
 
 ## 🚀 What I Do
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
-<br><strong>🏗️ System Architecture</strong>
-<br>Building scalable & maintainable systems
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
-<br><strong>🤖 Agentic AI & MCP</strong>
-<br>Next-level intelligent software
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
-<br><strong>🎨 UI/UX Design</strong>
-<br>Aesthetic designs that convert
-</td>
-</tr>
-</table>
+<div align="center">
+
+🏗️ **System Architecture** • 🤖 **Agentic AI & MCP** • ⚡ **Full Stack Development**
+
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theonewithdesire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonewithdesire&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d4edd&ring=9d4edd&fire=ff6b6b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theonewithdesire&bg_color=0d1117&color=9d4edd&line=9d4edd&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
