@@ -8,46 +8,8 @@
 
 ## 🎯 What I Build<div align="center"><table><tr><td align="center" width="200"><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80" height="80"><br><strong>🏗️ System Architecture</strong><br><sub>Scalable & maintainable systems</sub></td><td align="center" width="200"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80"><br><strong>🤖 Agentic AI & MCP</strong><br><sub>Next-gen intelligent solutions</sub></td><td align="center" width="200"><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80" height="80"><br><strong>⚡ Full Stack Apps</strong><br><sub>React + Node.js + Python</sub></td></tr></table></div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theonewithdesire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonewithdesire&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF"/>
-</div>
-
-## 🌟 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theonewithdesire&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=A855F7&point=C084FC&area=true&hide_border=true"/>
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/theonewithdesire">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/theonewithdesire">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/theonewithdesire">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theonewithdesire&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
-</div>
+## 📈 GitHub Stats<div align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=6" alt="Top Languages" /></div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:C084FC&height=120&section=footer"/>
 </div>
-
-    
