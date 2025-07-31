@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=TheOneWithDesire" alt="Name Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=TheOneWithDesire" alt="Name Typing" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=🎓+Computer+Engineering+Graduate;🚀+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;⚡+20x+Productivity+Boost" alt="Description Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=🎓+Computer+Engineering+Graduate;🚀+Full+Stack+Developer;🤖+AI+%26+MCP+Enthusiast;⚡+20x+Productivity+Boost" alt="Description Typing" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=const+developer+%3D+%7B;++name%3A+%22TheOneWithDesire%22%2C;++degree%3A+%22Computer+Engineering%22%2C;++passion%3A+%22Building+scalable+systems+%26+intelligent+AI+solutions%22%2C;++superpower%3A+%22Python+is+my+utility+for+everything+🐍%22%2C;++mission%3A+%22Boosting+productivity+20x+with+AI+automation+⚡%22;%7D%3B" alt="Code Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+scalable+systems+%26+intelligent+AI+solutions;Python+is+my+utility+for+everything+🐍;Boosting+productivity+20x+with+AI+automation+⚡" alt="Description Details" />
 </div>
 
 <div align="center">
@@ -25,16 +25,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theonewithdesire&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=39FF14&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theonewithdesire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonewithdesire&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonewithdesire&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=39FF14&fire=00FF41&currStreakLabel=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonewithdesire&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theonewithdesire&theme=github-compact&bg_color=0D1117&color=00FF00&line=39FF14&point=00FF41&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theonewithdesire&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=A855F7&point=C084FC&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
