@@ -24,14 +24,14 @@
       <td align="center" width="300">
         <img src="https://img.shields.io/badge/🎨_Frontend-667eea?style=for-the-badge&logoColor=white" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=4" width="200" />
         <br><br>
         <sub>Modern UI/UX • Responsive Design • Component Architecture</sub>
       </td>
       <td align="center" width="300">
         <img src="https://img.shields.io/badge/⚙️_Backend-f5576c?style=for-the-badge&logoColor=white" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,postgresql,mongodb,redis&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,postgresql,mongodb,redis&theme=dark&perline=4" width="200" />
         <br><br>
         <sub>APIs • Microservices • Database Design • Performance</sub>
       </td>
@@ -40,7 +40,7 @@
       <td align="center" width="300">
         <img src="https://img.shields.io/badge/🧠_AI_&_ML-00f2fe?style=for-the-badge&logoColor=white" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" width="150" />
         <br><br>
         <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Anthropic-D4A574?style=flat&logo=anthropic&logoColor=black" />
@@ -53,7 +53,7 @@
       <td align="center" width="300">
         <img src="https://img.shields.io/badge/🔧_DevOps-fee140?style=for-the-badge&logoColor=black" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode&theme=dark&perline=3" width="150" />
         <br><br>
         <sub>CI/CD • Containerization • Cloud Infrastructure • Monitoring</sub>
       </td>
@@ -69,19 +69,19 @@
   <table>
     <tr>
       <td align="center" width="300">
-        <div style="font-size: 48px; margin-bottom: 16px;">🏗️</div>
+        <div style="font-size: 80px; margin-bottom: 20px;">🏛️</div>
         <h3>System Architecture</h3>
         <p>Scalable, maintainable systems that grow with your needs</p>
         <sub>Microservices • API Design • Database Architecture</sub>
       </td>
       <td align="center" width="300">
-        <div style="font-size: 48px; margin-bottom: 16px;">⚡</div>
+        <div style="font-size: 80px; margin-bottom: 20px;">🌐</div>
         <h3>Full Stack Applications</h3>
         <p>End-to-end web applications with modern tech stacks</p>
         <sub>React/Next.js • Node.js/Python • Database Integration</sub>
       </td>
       <td align="center" width="300">
-        <div style="font-size: 48px; margin-bottom: 16px;">🤖</div>
+        <div style="font-size: 80px; margin-bottom: 20px;">🧠</div>
         <h3>Agentic AI Systems</h3>
         <p>Intelligent agents that reason, plan, and execute autonomously</p>
         <sub>Multi-Agent • MCP Protocol • Tool Integration</sub>
@@ -90,51 +90,7 @@
   </table>
 </div>
 
----
 
-## 🤖 Agentic AI & Model Context Protocol
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⚡-Agentic_AI-6366F1?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔗-MCP_Protocol-8B5CF6?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧠-Multi_Agent-A855F7?style=flat&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <div style="font-size: 48px; margin-bottom: 16px;">⚡</div>
-        <h3>Agentic AI Systems</h3>
-        <p>Building intelligent agents that think and act autonomously</p>
-        <sub>Multi-Agent Orchestration • Autonomous Decision Making • Tool Integration</sub>
-      </td>
-      <td align="center" width="300">
-        <div style="font-size: 48px; margin-bottom: 16px;">🔗</div>
-        <h3>Model Context Protocol</h3>
-        <p>Expert in MCP architecture and implementation</p>
-        <sub>Custom MCP Servers • Protocol Design • Dynamic Tool Networks</sub>
-      </td>
-      <td align="center" width="300">
-        <div style="font-size: 48px; margin-bottom: 16px;">🎯</div>
-        <h3>Real-World Applications</h3>
-        <p>Transforming complex workflows into intelligent automation</p>
-        <sub>Automated Workflows • Intelligent Assistants • Data Pipelines</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🧠 Core Expertise
-- **Multi-Agent Orchestration** → Collaborative AI systems solving complex problems
-- **Autonomous Decision Making** → Self-directed agents with reasoning capabilities  
-- **Tool Integration** → Seamless API and service interactions
-- **Memory & Context Management** → Persistent learning and adaptation
-- **MCP Server Development** → Domain-specific tool development
-- **Protocol Architecture** → Deep MCP implementation knowledge
-- **Performance Optimization** → Efficient model-resource communication
 
 ---
 
