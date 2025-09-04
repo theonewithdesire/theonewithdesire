@@ -28,17 +28,17 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,postgresql,mongodb,redis" />
 </div>
 
-### 🤖 AI & Machine Learning
+### �  AI & Machine Learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <br><br>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A574?style=flat-square&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-87CEEB?style=flat-square&logo=chainlink&logoColor=black" />
+  <img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logo=protocol&logoColor=white" />
 </div>
 
-### 🔧 DevOps & Tools
+### ⚙️ DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode" />
 </div>
@@ -51,54 +51,50 @@
   <table>
     <tr>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" height="100">
-        <br><br>
-        <h3>🏗️ System Architecture</h3>
-        <p>Designing scalable, maintainable systems that grow with your business needs</p>
-        <sub>• Microservices • API Design • Database Architecture</sub>
+        <div style="font-size: 48px; margin-bottom: 16px;">🏗️</div>
+        <h3>System Architecture</h3>
+        <p>Scalable, maintainable systems that grow with your needs</p>
+        <sub>Microservices • API Design • Database Architecture</sub>
       </td>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100" height="100">
-        <br><br>
-        <h3>⚡ Full Stack Applications</h3>
+        <div style="font-size: 48px; margin-bottom: 16px;">⚡</div>
+        <h3>Full Stack Applications</h3>
         <p>End-to-end web applications with modern tech stacks</p>
-        <sub>• React/Next.js • Node.js/Python • Database Integration</sub>
+        <sub>React/Next.js • Node.js/Python • Database Integration</sub>
       </td>
     </tr>
   </table>
 </div>
 
-## 🤖 Agentic AI & Model Context Protocol (MCP)
+## 🤖 Agentic AI & Model Context Protocol
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" height="120">
+  <img src="https://img.shields.io/badge/⚡-Agentic_AI-6366F1?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔗-MCP_Protocol-8B5CF6?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠-Multi_Agent-A855F7?style=flat&logoColor=white" />
 </div>
 
-I specialize in building **intelligent agentic systems** that can reason, plan, and execute complex tasks autonomously. My expertise includes:
+<br>
 
-### 🧠 Agentic AI Systems
-- **Multi-Agent Orchestration**: Designing systems where multiple AI agents collaborate to solve complex problems
-- **Autonomous Decision Making**: Building agents that can analyze situations and make informed decisions without human intervention
-- **Tool Integration**: Creating agents that can interact with external APIs, databases, and services seamlessly
-- **Memory & Context Management**: Implementing persistent memory systems for long-term agent interactions
+I specialize in building **intelligent agentic systems** that can reason, plan, and execute complex tasks autonomously.
 
-### 🔗 Model Context Protocol (MCP) Expert
-- **MCP Server Development**: Building custom MCP servers that extend AI capabilities with domain-specific tools
-- **Protocol Implementation**: Deep understanding of MCP architecture and communication patterns
-- **Tool Ecosystem**: Creating interconnected tool networks that agents can leverage dynamically
-- **Performance Optimization**: Ensuring efficient communication between AI models and external resources
+### ⚡ Agentic AI Systems
+- **Multi-Agent Orchestration** → Collaborative AI systems solving complex problems
+- **Autonomous Decision Making** → Self-directed agents with reasoning capabilities  
+- **Tool Integration** → Seamless API and service interactions
+- **Memory & Context** → Persistent learning and adaptation
 
-### 🎯 Real-World Applications
-- **Automated Workflows**: AI agents that handle complex business processes end-to-end
-- **Intelligent Assistants**: Context-aware AI systems that adapt to user needs and preferences
-- **Data Processing Pipelines**: Autonomous systems that ingest, process, and analyze large datasets
-- **Integration Solutions**: Bridging different systems through intelligent middleware
+### 🔗 Model Context Protocol (MCP)
+- **Custom MCP Servers** → Domain-specific tool development
+- **Protocol Architecture** → Deep MCP implementation knowledge
+- **Dynamic Tool Networks** → Interconnected agent ecosystems
+- **Performance Optimization** → Efficient model-resource communication
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-Expert-8B5CF6?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-Specialist-A855F7?style=for-the-badge&logo=network-wired&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi_Agent-Systems-C084FC?style=for-the-badge&logo=sitemap&logoColor=white" />
-</div>
+### 🎯 Applications
+- **Automated Workflows** → End-to-end business process automation
+- **Intelligent Assistants** → Context-aware adaptive AI systems
+- **Data Pipelines** → Autonomous processing and analysis
+- **System Integration** → Intelligent middleware solutions
 
 ---
 
@@ -122,9 +118,9 @@ I specialize in building **intelligent agentic systems** that can reason, plan, 
 ## 🌟 Let's Connect & Build Something Amazing
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <br><br>
+  <br>
   <p><em>"The future belongs to those who understand both code and intelligence"</em></p>
+  <br>
 </div>
 
 <div align="center">
