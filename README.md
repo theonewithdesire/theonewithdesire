@@ -16,31 +16,49 @@
 
 ---
 
-## � ️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
-### 🎨 Frontend Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</div>
-
-### ⚙️ Backend & Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,postgresql,mongodb,redis" />
-</div>
-
-### �  AI & Machine Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <br><br>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-D4A574?style=flat-square&logo=anthropic&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-87CEEB?style=flat-square&logo=chainlink&logoColor=black" />
-  <img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logo=protocol&logoColor=white" />
-</div>
-
-### ⚙️ DevOps & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode" />
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.shields.io/badge/🎨_Frontend-667eea?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
+        <br><br>
+        <sub>Modern UI/UX • Responsive Design • Component Architecture</sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://img.shields.io/badge/⚙️_Backend-f5576c?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,postgresql,mongodb,redis&theme=dark" />
+        <br><br>
+        <sub>APIs • Microservices • Database Design • Performance</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.shields.io/badge/🧠_AI_&_ML-00f2fe?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+        <br><br>
+        <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anthropic-D4A574?style=flat&logo=anthropic&logoColor=black" />
+        <br>
+        <img src="https://img.shields.io/badge/LangChain-87CEEB?style=flat&logo=chainlink&logoColor=black" />
+        <img src="https://img.shields.io/badge/MCP-6366F1?style=flat&logo=protocol&logoColor=white" />
+        <br><br>
+        <sub>Neural Networks • NLP • Computer Vision • MLOps</sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://img.shields.io/badge/🔧_DevOps-fee140?style=for-the-badge&logoColor=black" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode&theme=dark" />
+        <br><br>
+        <sub>CI/CD • Containerization • Cloud Infrastructure • Monitoring</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -62,9 +80,17 @@
         <p>End-to-end web applications with modern tech stacks</p>
         <sub>React/Next.js • Node.js/Python • Database Integration</sub>
       </td>
+      <td align="center" width="300">
+        <div style="font-size: 48px; margin-bottom: 16px;">🤖</div>
+        <h3>Agentic AI Systems</h3>
+        <p>Intelligent agents that reason, plan, and execute autonomously</p>
+        <sub>Multi-Agent • MCP Protocol • Tool Integration</sub>
+      </td>
     </tr>
   </table>
 </div>
+
+---
 
 ## 🤖 Agentic AI & Model Context Protocol
 
@@ -76,25 +102,39 @@
 
 <br>
 
-I specialize in building **intelligent agentic systems** that can reason, plan, and execute complex tasks autonomously.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <div style="font-size: 48px; margin-bottom: 16px;">⚡</div>
+        <h3>Agentic AI Systems</h3>
+        <p>Building intelligent agents that think and act autonomously</p>
+        <sub>Multi-Agent Orchestration • Autonomous Decision Making • Tool Integration</sub>
+      </td>
+      <td align="center" width="300">
+        <div style="font-size: 48px; margin-bottom: 16px;">🔗</div>
+        <h3>Model Context Protocol</h3>
+        <p>Expert in MCP architecture and implementation</p>
+        <sub>Custom MCP Servers • Protocol Design • Dynamic Tool Networks</sub>
+      </td>
+      <td align="center" width="300">
+        <div style="font-size: 48px; margin-bottom: 16px;">🎯</div>
+        <h3>Real-World Applications</h3>
+        <p>Transforming complex workflows into intelligent automation</p>
+        <sub>Automated Workflows • Intelligent Assistants • Data Pipelines</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### ⚡ Agentic AI Systems
+### 🧠 Core Expertise
 - **Multi-Agent Orchestration** → Collaborative AI systems solving complex problems
 - **Autonomous Decision Making** → Self-directed agents with reasoning capabilities  
 - **Tool Integration** → Seamless API and service interactions
-- **Memory & Context** → Persistent learning and adaptation
-
-### 🔗 Model Context Protocol (MCP)
-- **Custom MCP Servers** → Domain-specific tool development
+- **Memory & Context Management** → Persistent learning and adaptation
+- **MCP Server Development** → Domain-specific tool development
 - **Protocol Architecture** → Deep MCP implementation knowledge
-- **Dynamic Tool Networks** → Interconnected agent ecosystems
 - **Performance Optimization** → Efficient model-resource communication
-
-### 🎯 Applications
-- **Automated Workflows** → End-to-end business process automation
-- **Intelligent Assistants** → Context-aware adaptive AI systems
-- **Data Pipelines** → Autonomous processing and analysis
-- **System Integration** → Intelligent middleware solutions
 
 ---
 
